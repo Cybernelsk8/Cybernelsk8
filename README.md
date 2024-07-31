@@ -1,27 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body>
-    <section class="h-screen bg-cover" style="background-image: url('https://images.unsplash.com/photo-1619364726002-dfd4fdaee5f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80')">
-        <div class="flex h-full w-full items-center justify-center container mx-auto px-8">
-          <div class="max-w-2xl text-center">
-            <h1 class="text-3xl sm:text-5xl capitalize tracking-widest text-white lg:text-7xl">Comming Soon</h1>
-      
-            <p class="mt-6 lg:text-lg text-white">You can subscribe to our newsletter, and let you know when we are back</p>
-      
-            <div class="mt-8 flex flex-col space-y-3 sm:-mx-2 sm:flex-row sm:justify-center sm:space-y-0">
-              <input id="email" type="text" class="rounded-md border border-transparent bg-white/20 px-4 py-2 text-white placeholder-white backdrop-blur-sm focus:border-blue-400 focus:outline-none focus:ring focus:ring-blue-300 focus:ring-opacity-40 sm:mx-2" placeholder="Email Address" />
-      
-              <button class="transform rounded-md bg-blue-700 px-8 py-2 text-sm font-medium capitalize tracking-wide text-white transition-colors duration-200 hover:bg-blue-600 focus:bg-blue-600 focus:outline-none sm:mx-2">Notify Me</button>
-            </div>
-          </div>
-        </div>
-      </section>
-</body>
-</html>
+# ¡Hola! 👋 Soy Nelson Vásqez
+
+Bienvenido a mi perfil de GitHub. Soy un estudiante universitario en Guatemala, cursando la carrera de Licenciatura en Administración de Sistemas de Información. Actualmente estoy enfocado en varios cursos interesantes como:
+
+- **Redes de Computadoras **
+- **Ingeniería de la Calidad**
+- **Investigación de Operaciones**
+- **Auditoría de Sistemas**
+
+## 🌟 Sobre Mí
+
+Tengo una pasión por el desarrollo web y estoy trabajando en proyectos con tecnologías como Laravel, Vue 3 y TailwindCSS. También tengo interés en la administración de sistemas y la calidad de software.
+
+## 💻 Mis Proyectos
+
+### Laravel 10 Project
+
+Estoy desarrollando un proyecto en Laravel 10 con un modelo `rh_empleados` que incluye campos como ID, NOMBRES, APELLIDOS, CODAREA, NIT, DEPENDE y STATUS. Este proyecto se enfoca en la gestión de empleados y sus relaciones jerárquicas.
+
+### Frontend con Vue 3 y TailwindCSS
+
+Estoy trabajando en un template utilizando Vue 3 y TailwindCSS con un diseño que incluye:
+
+- **Header**: Largo completo, 60px de alto, posición fija.
+- **Aside**: Lado izquierdo, ocupa el alto de la pantalla, 240px de largo.
+- **Article**: Al lado del aside, ocupa el alto de la pantalla y el largo restante.
+- **Footer**: Dentro de article, siempre visible al final de la pantalla.
+
+### Integración con Vite
+
+He decidido utilizar Vite en lugar de Next.js para mis proyectos de frontend por su rapidez y simplicidad.
+
+### Soluciones de CORS
+
+He trabajado en la resolución de problemas de CORS al hacer peticiones desde Axios hacia una API realizada en Symfony, utilizando configuraciones en el archivo `.htaccess`.
+
+## 📫 Contacto
+
+- **Correo**: [tu_correo@example.com](mailto:tu_correo@example.com)
+- **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil/)
+- **Twitter**: [@tu_usuario](https://twitter.com/tu_usuario)
+
+## 📈 Estadísticas de GitHub
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)](https://github.com/tu_usuario)
+
+Gracias por visitar mi perfil. ¡Espero que encuentres algo interesante aquí!
+
+---
+
+_Si te gustan mis proyectos, no dudes en darme una estrella ⭐ y seguirme para más contenido._
+
