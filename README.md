@@ -36,9 +36,8 @@ He trabajado en la resolución de problemas de CORS al hacer peticiones desde Ax
 
 ## 📫 Contacto
 
-- **Correo**: [tu_correo@example.com](mailto:tu_correo@example.com)
-- **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil/)
-- **Twitter**: [@tu_usuario](https://twitter.com/tu_usuario)
+- **Correo**: [nelson.o.vasquez@gmail.com](nelson.o.vasquez@gmail.com)
+- **LinkedIn**: [Nelson Vásquez](https://www.linkedin.com/in/nelson-vasquez-393429195)
 
 ## 📈 Estadísticas de GitHub
 
